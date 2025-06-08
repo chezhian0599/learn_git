@@ -1,7 +1,0 @@
-Hi I have created test3.txt file for learning how to
-add 
-commit
-and push the changes to github
-
-
-Now learning how if the local is ahead of main what message I receive.
